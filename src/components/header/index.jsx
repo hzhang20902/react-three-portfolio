@@ -11,7 +11,7 @@ const TopSectionContainer = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20%;
+    padding-top: 7%;
     
 `;
 
