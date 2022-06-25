@@ -1,12 +1,6 @@
-LOCATED ON PRIME BRANCH
+Source code is on prime branch.
 
-This is a copy (original repo is react-three-avatar) of my 
-
-portfolio site for works in ThreeJs in React, for deployment on Heroku.
-
-It will most likely become the main repo after June 23rd, as I have 
-
-successfully deployed it to Heroku and will continue to update the live site, link:
+This is my portfolio site for works in ThreeJs in React, deployed on Heroku:
 
 https://deploy-react-three-test.herokuapp.com/
 
