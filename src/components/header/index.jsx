@@ -36,7 +36,7 @@ export function TopSection() {
             House of the Rising Buns
         </Logo>
         <Slogan>
-            Click, drag, and zoom!
+            Click, drag, and zoom!!
         </Slogan>
         
     </TopSectionContainer>
