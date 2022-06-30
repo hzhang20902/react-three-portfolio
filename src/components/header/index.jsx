@@ -33,7 +33,7 @@ margin-top: 1em;
 export function TopSection() {
     return <TopSectionContainer>
         <Logo>
-            House of the Rising Buns
+            Click, drag, and zoom!
         </Logo>
         <Slogan>
          
