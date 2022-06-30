@@ -19,7 +19,7 @@ const Logo = styled.div`
     margin: 0;
     color: #fff;
     font-weight: 700;
-    font-size: 55px;
+    font-size: 45px;
 `;
 
 const Slogan = styled.h4`
@@ -33,10 +33,10 @@ margin-top: 1em;
 export function TopSection() {
     return <TopSectionContainer>
         <Logo>
-            Click, drag, and zoom all the way out!
+            House of the Rising Buns
         </Logo>
         <Slogan>
-         
+            Click, drag, and zoom out!
         </Slogan>
         
     </TopSectionContainer>
