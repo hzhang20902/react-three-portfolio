@@ -11,7 +11,7 @@ const TopSectionContainer = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 4%;
+    padding-top: 3.5%;
     
 `;
 
@@ -36,7 +36,7 @@ export function TopSection() {
             House of the Rising Buns
         </Logo>
         <Slogan>
-            Click, drag, and zoom out!
+            Click, drag, and zoom!
         </Slogan>
         
     </TopSectionContainer>
