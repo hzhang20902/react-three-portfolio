@@ -33,7 +33,7 @@ margin-top: 1em;
 export function TopSection() {
     return <TopSectionContainer>
         <Logo>
-            Click, drag, and zoom!
+            Click, drag, and zoom all the way out!
         </Logo>
         <Slogan>
          
